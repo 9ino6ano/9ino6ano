@@ -19,10 +19,10 @@ I am a passionate networking and software developer with a deep interest in AI-d
 
 Let’s connect and build something amazing together!
 .
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+- 📫 How to reach me ...lebo.kgaswane@outlook.com
+- 😄 Pronouns: ...Pana
+- ⚡ Fun fact: ...What came 1st the "Chicken" or "egg"
+  
 <!---
 9ino6ano/9ino6ano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
